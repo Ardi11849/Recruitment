@@ -1,0 +1,39 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Testing recruitment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardi11849/Recruitment.git"
+  },
+  "keywords": [
+    "recruitment"
+  ],
+  "author": "Ardi Suryana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ardi11849/Recruitment/issues"
+  },
+  "homepage": "https://github.com/Ardi11849/Recruitment#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crc32": "^0.2.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mysql2": "^2.3.3",
+    "npm": "^8.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "reverse-md5": "^0.0.5",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.2.0"
+  }
+}
